@@ -1,1 +1,1 @@
-My first readme
+how to update in git
